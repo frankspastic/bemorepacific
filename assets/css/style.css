@@ -240,7 +240,7 @@ section{
     position: relative;
     overflow: hidden;
 }
-.sections.footer {
+.sections.contact {
     padding-bottom: 80px;
 }
 section .subtitle h5 {
@@ -732,8 +732,8 @@ font-size: 6rem;
         background-size:cover;
 }
 
-/* Portfolio Section css */
-.portfolio{
+/* photos Section css */
+.photos{
 	background:url(../images/pictures-bg.jpg) center top no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
@@ -743,14 +743,14 @@ font-size: 6rem;
 	overflow: hidden;
 }
 
-.portfolio_content{
+.photos_content{
 	padding-bottom:120px;
 	display:inline-block;
 }
-.portfolio .portfolio_content .head_title h3{
+.photos .photos_content .head_title h3{
 	color:#000000;
 }
-.portfolio .portfolio_content .head_title h4{
+.photos .photos_content .head_title h4{
 	color:#000000;
 }
 
@@ -759,23 +759,23 @@ font-size: 6rem;
 	padding-bottom: 50px;
 }
 
-.single_portfolio_text{
+.single_photos_text{
 	display:inline-block;
 	padding:0;
 	position:relative;
 	overflow:hidden;
 
 }
-.single_portfolio_text img{
+.single_photos_text img{
 	width:100%;
 }
 
-.single_portfolio_text:hover .portfolio_images_overlay{
+.single_photos_text:hover .photos_images_overlay{
 	top: 28px;
     left: 14px;
 }
 
-.portfolio_images_overlay{
+.photos_images_overlay{
 	width: 90%;
     height: 80%;
     background: rgba(0, 0, 0, .5);
@@ -786,14 +786,14 @@ font-size: 6rem;
     position: absolute;
 	transition:.6s;
 }
-.portfolio_images_overlay h6{
+.photos_images_overlay h6{
 	text-transform:uppercase;
 	color:#fff;
 	font-size:1.3125rem;
 	line-height:2rem;
 }
 
-.portfolio_images_overlay p.product_price{
+.photos_images_overlay p.product_price{
 	font-size:2.5725rem;
 	color:#fff;
 	line-height:3rem;
@@ -860,13 +860,13 @@ font-size: 6rem;
 
 }
 
-/* Footer Section CSS */
-.footer_widget{
+/* contact Section CSS */
+.contact {
 	background:url(../images/graybg.jpg) center top repeat scroll;
 
 	overflow: hidden;
 }
-.footer_widget_content{
+.contact_content{
 	color:#fff;
 }
 .single_widget{
@@ -888,13 +888,13 @@ font-size: 6rem;
 .single_widget_info p span.phone_email{
 	margin-top:15px;
 }
-.footer_socail_icon{
+.contact_socail_icon{
 	margin-top:90px;
 }
-.footer_socail_icon a{
+.contact_socail_icon a{
 	padding:5px;
 }
-.footer_socail_icon a i{
+.contact_socail_icon a i{
 	font-size:25px;
 	color:#e7a331;
 }
@@ -904,21 +904,6 @@ font-size: 6rem;
 	margin-top:25px;
 	margin-bottom:15px;
 	font-weight:600;
-}
-.footer{
-	background:#000;
-}
-.footer .copyright p{
-	padding:25px;
-	color:#fff;
-}
-.footer .copyright p i{
-	padding:0px 10px;
-	color:#ff0000;
-}
-.footer .copyright p a{
-	padding:0px 10px;
-	color:green;
 }
 
 
