@@ -18,7 +18,7 @@ body {
     padding: 0;
     margin-left: 0;
     margin-right: 0;
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
 
@@ -134,7 +134,7 @@ input[type="color"],
 h1,
 h2,
 h3 {
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     margin: 0;
 }
@@ -196,7 +196,7 @@ p:last-child {
 .home-wrap h5,
 .home-wrap p {
     color: #ffffff;
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .text {
     color: #333333;
@@ -246,7 +246,7 @@ section{
 section .subtitle h5 {
     margin-top: 10px;
     font-size: 1.3rem;
-    font-family: 'roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .parallax-section {
     max-width: 100%;
@@ -655,7 +655,7 @@ a.navbar-brand.our_logo{
 /* slider section */
 
 .slider{
-	background:url(../images/kamayan.jpg) center center no-repeat;
+	background:url(../images/main.jpg) center center no-repeat;
 	background-size:cover;
 }
 .main_slider {
@@ -686,7 +686,7 @@ font-size: 6rem;
 /* About Section css */
 
 .about{
-	 background: url(../images/abtbg.jpg) no-repeat center top scroll;
+	 background: url(../images/about-bg.jpg) no-repeat center top scroll;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -734,7 +734,7 @@ font-size: 6rem;
 
 /* Portfolio Section css */
 .portfolio{
-	background:url(../images/portfoliobg.jpg) center top no-repeat;
+	background:url(../images/pictures-bg.jpg) center top no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -862,12 +862,8 @@ font-size: 6rem;
 
 /* Footer Section CSS */
 .footer_widget{
-	background:url(../images/footerbg.jpg) center top no-repeat scroll;
-	-moz-background-size: cover;
-	-webkit-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	width: 100%;
+	background:url(../images/graybg.jpg) center top repeat scroll;
+
 	overflow: hidden;
 }
 .footer_widget_content{
