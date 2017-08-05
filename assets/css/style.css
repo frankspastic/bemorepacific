@@ -13,7 +13,7 @@ html,
 body {
     background-color: #1E2E3B;
     font-size: 15px;
-    color: #565656;
+    /*color: #000000;*/
     width: 100%;
     padding: 0;
     margin-left: 0;
@@ -705,6 +705,23 @@ font-size: 6rem;
 	color:#000000;
 }
 
+/*Filipino Food section css */
+.filipino_food {
+	background:url(../images/bamboo.jpg) center center no-repeat;
+	background-size:cover;
+  color: #ffffff;
+}
+.filipino_food h4 {
+  color: #ffffff;
+}
+.filipino_food h3 {
+  color: #ffffff;
+}
+.filipino_food_content{
+	padding:120px 0px;
+	display:inline-block;
+}
+
 
 /* Features section css */
 .features{
@@ -748,10 +765,10 @@ font-size: 6rem;
 	display:inline-block;
 }
 .photos .photos_content .head_title h3{
-	color:#000000;
+	color:#ffffff;
 }
 .photos .photos_content .head_title h4{
-	color:#000000;
+	color:#ffffff;
 }
 
 .head_title{
