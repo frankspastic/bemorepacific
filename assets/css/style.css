@@ -448,9 +448,9 @@ button.btn-lg:hover{
     background-color: #ffffff;
 }
 .btn-primary {
-    background-color: #E7A331;
+    background-color: #DF6F25;
     color: #ffffff;
-    border: 2px solid #E7A331;
+    border: 2px solid #DF6F25;
     text-transform: uppercase;
 	border-radius:4px;
 }
@@ -581,13 +581,13 @@ a.navbar-brand.our_logo{
 	display:inline-block;
 }
 .header_top_menu .call_us_text a i{
-	color:#e7a331;
+	color:#DF6F25;
 	margin-right:10px;
 	font-size:18px;
 }
 
 .head_top_social a{
-    color: #e7a331;
+    color: #DF6F25;
     padding: 5px;
     display: inline-block;
 }
@@ -603,7 +603,7 @@ a.navbar-brand.our_logo{
 	z-index: 300;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    background-color: #000;
+    background-color: #225970;
 	height:80px;
 
 }
@@ -616,7 +616,7 @@ a.navbar-brand.our_logo{
 }
 
 .main_menu_bg{
-	background:rgba(0, 0, 0, .45);
+	background:rgba(34, 89, 112, .45);
 	height: 80px;
 
 }
@@ -631,7 +631,7 @@ a.navbar-brand.our_logo{
 .main_menu_bg li a.booking{
 	border: 1px solid #fff;
     border-radius: 4px;
-    color: #e7a331 !important;
+    color: #DF6F25 !important;
     padding: 5px 10px;
     margin-top: 8px;
 }
@@ -676,7 +676,7 @@ font-size: 6rem;
 }
 
 .slider_overlay{
-	background:rgba(0, 0, 0, .6);
+	/*background:rgba(0, 0, 0, .6);*/
 	width:100%;
 	top:0;
 	left:0;
@@ -699,7 +699,6 @@ font-size: 6rem;
 	display:inline-block;
 }
 .single_about_text h4{
-	color:#000000;
 }
 .single_about_text h3{
 	color:#000000;
@@ -879,7 +878,8 @@ font-size: 6rem;
 
 /* contact Section CSS */
 .contact {
-	background:url(../images/graybg.jpg) center top repeat scroll;
+	/*background:url(../images/graybg.jpg) center top repeat scroll;*/
+  background-color: #695C52;
 
 	overflow: hidden;
 }
@@ -913,7 +913,7 @@ font-size: 6rem;
 }
 .contact_socail_icon a i{
 	font-size:25px;
-	color:#e7a331;
+	color:#DF6F25;
 }
 
 
@@ -945,7 +945,7 @@ font-size: 6rem;
 }
 
 .scrollup:hover {
-	background: #e7a331;
+	background: #DF6F25;
 	opacity: 1;
 }
 
