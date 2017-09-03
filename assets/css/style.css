@@ -652,6 +652,11 @@ a.navbar-brand.our_logo{
 	color: #da9b31;
 }
 
+#announcement {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 20px 0;
+}
+
 /* slider section */
 
 .slider{
@@ -681,6 +686,13 @@ font-size: 5rem;
 	top:0;
 	left:0;
 }
+
+/* Announcement Section css */
+.menu-scroll #announcement{
+	display:none;
+}
+
+#announcement
 
 
 /* About Section css */
@@ -942,6 +954,10 @@ font-size: 5rem;
 	transition: opacity .5s, background-color .5s;
 	-moz-transition: opacity .5s, background-color .5s;
 	-webkit-transition: opacity .5s, background-color .5s;
+}
+
+#credits p {
+  color: #ffffff;
 }
 
 .scrollup:hover {
