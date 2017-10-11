@@ -730,6 +730,18 @@ font-size: 5rem;
 	display:inline-block;
 }
 
+/* Menu section css */
+.menu {
+  background: #DB631C;
+  background-size:cover;
+  width: 100%;
+  min-height: 750px;
+}
+
+.menu_content {
+  padding:120px 0px;
+}
+
 
 /* Features section css */
 .features{
