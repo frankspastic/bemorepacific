@@ -801,7 +801,6 @@ font-size: 5rem;
 	padding:0;
 	position:relative;
 	overflow:hidden;
-
 }
 .single_photos_text img{
 	width:100%;
@@ -824,7 +823,7 @@ font-size: 5rem;
 	transition:.6s;
 }
 .photos_images_overlay h6{
-	text-transform:uppercase;
+  font-family: 'Dancing Script', cursive;
 	color:#fff;
 	font-size:1.3125rem;
 	line-height:2rem;
