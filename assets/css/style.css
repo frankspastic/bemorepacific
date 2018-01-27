@@ -735,11 +735,14 @@ font-size: 5rem;
   background: #DB631C;
   background-size:cover;
   width: 100%;
-  min-height: 750px;
 }
 
 .menu_content {
   padding:120px 0px;
+}
+
+.menu h4 {
+  margin: 1.1em 0;
 }
 
 
