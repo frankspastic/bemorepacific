@@ -745,6 +745,9 @@ font-size: 5rem;
   margin: 1.1em 0;
 }
 
+.menu a, .menu .fa {
+    color: #FFFF;
+}
 
 /* Features section css */
 .features{
