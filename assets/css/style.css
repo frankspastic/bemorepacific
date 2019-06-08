@@ -692,6 +692,36 @@ font-size: 5rem;
 	display:none;
 }
 
+/* Funding Seciton CSS */
+
+.funding {
+    background: url(../images/houston-map.jpg) no-repeat center top scroll;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;
+}
+
+.funding h4 {
+    color: #333333;
+}
+.funding h3 {
+    color: #ffffff;
+}
+
+.funding_content{
+    color: #333333;
+	padding:120px 0px;
+	display:inline-block;
+}
+
+.funding_button {
+    width: 100%;
+    margin:0 auto;
+}
+
 /* About Section css */
 
 .about{
