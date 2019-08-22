@@ -813,17 +813,18 @@ font-size: 5rem;
 	-o-background-size: cover;
 	background-size: cover;
 	width: 100%;
-	overflow: hidden;
+    overflow: hidden;
+    padding-bottom:120px;
 }
 
 .photos_content{
 	padding-bottom:120px;
 	display:inline-block;
 }
-.photos .photos_content .head_title h3{
+.photos .head_title h3{
 	color:#ffffff;
 }
-.photos .photos_content .head_title h4{
+.photos .head_title h4{
 	color:#ffffff;
 }
 
